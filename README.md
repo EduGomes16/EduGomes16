@@ -1,6 +1,7 @@
-### Hi there 👋
-
+### SEJA BEM VINDO AO MEU PERFIL⚡⚡
+Meu nome é eduardo e estou estudando na Alurase precisar de ajuda meu email é eduardogomes13@gmail.com
 <!--
+Estou me desenvolvendo na linguagem JavaScript
 **EduGomes16/EduGomes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
